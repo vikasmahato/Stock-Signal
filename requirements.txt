@@ -1,0 +1,13 @@
+structlog~=21.1.0
+PyYAML~=5.4.1
+python-json-logger=2.0.2
+tenacity~=6.2.0
+twilio~=6.62.0
+requests~=2.25.1
+Jinja2~=2.11.3
+pandas~=1.2.2
+numpy~=1.20.1
+slackweb~=1.0.5
+yfinance~=0.1.63
+webcord~=0.2
+stocktrends~=0.1.5
